@@ -4,7 +4,7 @@ Velog에 있는 시리즈 글 `MQTT로 카톡서버 만들어보자` 에 나오�
 
 ## Velog 글
 ### 시리즈
-https://velog.io/@mqtt_expert/series/MQTT%EB%A1%9C-%EC%B9%B4%ED%86%A1%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90
+https://velog.io/@mqtt_expert/series/MQTT로-카톡서버-만들어보자
 
 ### 1.MQTT로 카톡서버 만들어보자-인트로
 https://velog.io/@mqtt_expert/kakaotalk0
