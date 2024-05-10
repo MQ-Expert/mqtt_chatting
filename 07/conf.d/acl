@@ -1,0 +1,18 @@
+# deny anonymous access
+topic deny $SYS/#
+
+user server
+topic read server/login
+topic read server/logout
+topic read server/signin
+topic read server/signout
+topic read server/talk
+topic write clients/#
+
+user client
+topic write server/login
+topic write server/logout
+topic write server/signin
+topic write server/signout
+topic write server/talk
+topic read clients/#
